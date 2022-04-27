@@ -1,0 +1,273 @@
+body{ 
+ margin: 0px; 
+ 
+} 
+ 
+.fpage{ 
+ 
+ background-image: url(image/firstpic.jpeg); 
+ background-size: cover; 
+ height: 1000px; 
+ width: 1500px;
+  
+ 
+} 
+.logo{ 
+  
+ width: 20px; 
+ margin-left: 900px; 
+ padding-top: 170px; 
+} 
+.logo img{ 
+width: 300px; 
+} 
+.text1{ 
+ margin-left: 1000px; 
+ padding-top: 30px; 
+ font-size: 55px; 
+ font-weight: 6px; 
+} 
+.spage{ 
+ /*position: absolute;*/ 
+  
+ display: flex; 
+  
+ width: 100%; 
+ margin-left: 150px;
+} 
+.spic{ 
+ 
+ width: 500px; 
+ margin-top: 50px; 
+ margin-left: 150px; 
+} 
+.box{ 
+ 
+ width: 600px; 
+ height: 300px; 
+    font-size: 25px; 
+    color: blue; 
+  
+ color: white; 
+ background-color: black; 
+ margin-top: 160px; 
+ 
+ padding: 20px; 
+  
+  
+ 
+  
+} 
+.box span{ 
+ color: red; 
+} 
+.box p{ 
+ color: skyblue; 
+} 
+.tpage{ 
+ padding: 50px; 
+ word-spacing: 4px; 
+ letter-spacing: 2px; 
+ font-size: 26px; 
+ margin-left: 180px;
+ 
+} 
+.picc{ 
+ background-size: cover; 
+ position: absolute; 
+ display: flex; 
+ margin-bottom: 100px; 
+ 
+} 
+.picc img{ 
+ background-size: cover; 
+ width: 1518px; 
+ height: 700px; 
+} 
+.parag{ 
+ 
+ padding: 20px; 
+ word-spacing: 4px; 
+ letter-spacing: 2px; 
+ font-size: 28px; 
+ color: red; 
+ margin-top: 730px; 
+ border: 1 px solid black; 
+  margin-left: 350px;
+ color: black; 
+ 
+}/* 
+.last{ 
+position: absolute; 
+display: flex; 
+ 
+} 
+.b1{ 
+ background-image: url(image/fourthpic.jpeg); 
+ position: absolute; 
+ background-size: cover; 
+ background-repeat: no-repeat; 
+ 
+ 
+} 
+.b2{ 
+ background-image: url(image/fifthpic.jpeg); 
+ position: absolute; 
+ background-size: cover; 
+ background-repeat: no-repeat; 
+ margin-right: 300px; 
+  
+} 
+.b2 img{ 
+ width: 825px; 
+ height: 466px; 
+} 
+ 
+.img1{ 
+ width: 400px; 
+ height: 400px; 
+ background-color: black; 
+ margin-bottom: 500px; 
+} 
+.n1{ 
+ display: flex; 
+ position: absolute; 
+}*/ 
+ 
+ 
+.borderbox 
+{ 
+  position: absolute; 
+  display: flex; 
+ /* width: 100%; */
+  height: 600px; 
+  margin: 0px; 
+  margin-top:5px; 
+  margin-left: 10px; 
+  border-radius: 3px; 
+  /*border: 1px solid black;*/ 
+  background-color: white; 
+  /*background-color: white;*/ 
+} 
+.b2{ 
+  background-image: url(image/fourthpic.jpeg); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  position: absolute; 
+  display: flex; 
+  width: 750px; 
+  height: 600px; 
+  margin-left: 0px; 
+  margin-top: 90px; 
+  border-radius: 3px; 
+  /*border: 1px solid black;*/ 
+  background-color: indianred; 
+ 
+} 
+.b1{ 
+  background-image: url(image/fifthpic.jpeg); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  display: flex; 
+  width: 900px; 
+  height: 600px; 
+  margin-left:750px; 
+  margin-top: 90px; 
+  border-radius: 3px; 
+  /*border: 1px solid black;*/ 
+  background-color: indianred; 
+} 
+.content1{ 
+  position: absolute; 
+  display: flex; 
+  width: 600px; 
+  height: 480px; 
+  margin-left:50px; 
+  margin-top: 80px; 
+  border-radius: 3px; 
+  font-size: 22px; 
+  color: white; 
+  /*border: 1px solid black;*/ 
+  background-color: #; 
+  background: rgba(0, 0, 0, 0.6); 
+} 
+.content2{ 
+  position: absolute; 
+  display: flex; 
+  width: 600px; 
+  height: 480px; 
+  margin-left:82px; 
+  margin-top: 80px; 
+  border-radius: 3px; 
+  /*border: 1px solid black;*/ 
+  background-color: #; 
+  font-size: 22px; 
+  color: white; 
+   
+  background: rgba(0, 0, 0, 0.6); 
+} 
+.a1{ 
+ text-align: center; 
+ padding-top: 180px; 
+} 
+.last{ 
+  
+ margin-top:800px; 
+ margin-left: 300px; 
+ font-size: 20px;
+ width: 100%; 
+} 
+.button{ 
+ border: 2px solid black; 
+ width: 100px; 
+ height: 30px; 
+ margin-top: 30px; 
+ padding-top: 10px; 
+ margin-left: 700px; 
+ padding-left: 17px; 
+ 
+} 
+.last1{ 
+ background-color: white; 
+ position: absolute; 
+ display: flex; 
+ width: 100%; 
+ height: 500px; 
+ margin-top: 50px; 
+ 
+ } 
+.txt1{ 
+ background-color: white; 
+ width: 400px; 
+ height: 213px; 
+ margin-left: 320px; 
+    margin-top: 10px; 
+    text-align: center; 
+    font-size: 22px; 
+ 
+} 
+.txt2{ 
+ margin-left: 140px; 
+ background-color: white; 
+ width: 400px; 
+ height: 213px; 
+ margin-top: 10px; 
+    margin-left: 400; 
+    text-align: center; 
+    font-size: 22px; 
+} 
+@media screen and (max-width:360px){ 
+ 
+.fpage{ 
+  
+ background-color: #D5DBDB; 
+ background-size: cover; 
+ background-image:none; 
+} 
+ 
+ 
+.tpage{ 
+ width: 100%; 
+ margin-left: 158px; 
+} 
+}
